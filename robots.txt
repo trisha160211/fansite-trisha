@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trisha160211.github.io/fansite-trisha/sitemap.xml
